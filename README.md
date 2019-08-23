@@ -1,12 +1,7 @@
 # The Power of Plots
 
-## Background
 
-What good is data without a good plot to tell the story?
-
-So, let's take what you've learned about Python Matplotlib and apply it to some real-world situations. For this assignment, you'll need to complete **1 of 2** Data Challenges. As always, it's your choice which you complete. _Perhaps_, choose the one most relevant to your future career.
-
-## Option 1: Pyber
+## 1: Pyber
 
 ![Ride](Images/Ride.png)
 
@@ -39,7 +34,7 @@ As final considerations:
   * When making your Pie Chart, experiment with effects like `shadow`, `startangle`, and `explosion`.
 * See [Starter Workbook](Pyber/pyber_starter.ipynb) for a reference on expected format.
 
-## Option 2: Pymaceuticals Inc
+## 2: Pymaceuticals Inc
 
 ![Laboratory](Images/Laboratory.jpg)
 
